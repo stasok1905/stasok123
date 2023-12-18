@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #B9CDC4;
+}
+
+.container{
+  max-width: 1850px;
+  margin: 0 auto;
+}
+
+header{
+  background: #4B8C68;
+  padding:4px 0;
+}
+
+.header-info{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  width:192px ;
+  height:71px ;
+}
+
+.contacts a img{
+  margin-right: 20px;
+
+  width:35px;
+  height:35px;
+}
+
+.zag{
+	margin-top: 20px;
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
